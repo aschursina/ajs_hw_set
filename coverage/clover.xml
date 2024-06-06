@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1717354697979" clover="3.2.0">
-  <project timestamp="1717354697979" name="All files">
+<coverage generated="1717698480145" clover="3.2.0">
+  <project timestamp="1717698480146" name="All files">
     <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6" elements="22" coveredelements="22" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
     <file name="character.js" path="C:\Users\jun\Desktop\netology\ajs_hw_set\src\class\character.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
